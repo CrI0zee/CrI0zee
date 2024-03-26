@@ -1,4 +1,17 @@
-<div style = 'text-align: center;'>
-   <h1 style = 'font-size: 12px;'><b>Welcome to My Github! </b></h1>
-</div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Center Text Example</title>
+  <style>
+    .center {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Centered Heading</h1>
+  <div class="center">
+    <p>This text is centered.</p>
+  </div>
+</body>
+</html>
