@@ -13,7 +13,7 @@
   <div name= "statsContainer">
     <h3 align="center">My Stats</h3>
     <br>
-    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/></p>
+    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=crI0zee&theme=tokyonight" alt="mystreak"/></p>
     <br>
     <br>
     <p><img src="https://myreadme.vercel.app/api/embed/CrI0zee?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/></p>
