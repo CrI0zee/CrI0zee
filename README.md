@@ -4,7 +4,9 @@
     <hr>
   </div> 
   <div name="aboutMeContainer">
-    
+    <h2 align="center"> About Me</h2>
+    <br>
+    <p>Hello to all! I am a 23 year old junior programmer recently graduated from WCC's Computer Science Associates program. I enjoy coding in my free time to practice and hone my skills in programming and learning more about data structure and how they reflect in real world scenarios. Thank you for visiting! </p>
   </div>
   <div name= "statsContainer">
     <p align="center">My Stats</p>
@@ -12,9 +14,7 @@
     <br>
     <hr>
   </div>
-  <div name="spotify">
-    [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
-  </div>
+  
 
 </div>
 
