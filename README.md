@@ -11,7 +11,7 @@
     <hr>
   </div>
   <div name= "statsContainer">
-    <p align="center">My Stats</p>
+    <h3 align="center">My Stats</h3>
     <img src="https://myreadme.vercel.app/api/embed/CrI0zee?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
     <br>
     <hr>
