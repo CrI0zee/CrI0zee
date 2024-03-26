@@ -21,7 +21,11 @@
     <br>
     <hr>
   </div>
-  
+  <div name = "contactContainer">
+    <h3 align="center">Socials</h3>
+    <br>
+    <a href="https://www.linkedin.com/feed/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  </div>
 
 </div>
 
