@@ -1,7 +1,7 @@
 <div name = "rootContainer">
   <div name="welcome_tab">
     <h1 align="center">Welcome to my github</h1>
-    
+    <br><br>
   </div> 
   <div name="aboutMeContainer">
     <h2 align="center"> About Me</h2>
