@@ -12,6 +12,9 @@
   </div>
   <div name= "statsContainer">
     <h3 align="center">My Stats</h3>
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
+    <br>
     <img src="https://myreadme.vercel.app/api/embed/CrI0zee?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
     <br>
     <hr>
