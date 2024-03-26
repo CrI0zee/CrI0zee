@@ -24,7 +24,7 @@
   <div name = "contactContainer">
     <h3 align="center">Socials</h3>
     <br>
-    <a href="https://www.linkedin.com/feed/"><img width="48" height="48"src="https://imgs.search.brave.com/fQPr1e-Xdvt8sGDU2azrU80WfA8mqPqdzDaBsTf19ck/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS81/MTIvMTc0LzE3NDg1/Ny5wbmc"/></a>
+    <p aling="center"><a href="https://www.linkedin.com/in/corey-o-connor-650939192/"><img width="48" height="48"src="https://imgs.search.brave.com/fQPr1e-Xdvt8sGDU2azrU80WfA8mqPqdzDaBsTf19ck/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS81/MTIvMTc0LzE3NDg1/Ny5wbmc"/></a></p>
   </div>
 
 </div>
