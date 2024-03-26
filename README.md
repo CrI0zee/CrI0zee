@@ -5,7 +5,7 @@
   </div> 
   <div name= "statsContainer">
     <p align="center">My Stats</p>
-    <img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+    <img src="https://myreadme.vercel.app/api/embed/CrI0zee?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
     <br>
     <hr>
   </div>
